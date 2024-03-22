@@ -1,0 +1,21 @@
+{
+  "name": "webpack-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node core/index.js",
+    "main": "node example/build/main.js",
+    "second": "node example/build/second.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/generator": "^7.24.1",
+    "@babel/parser": "^7.24.1",
+    "@babel/traverse": "^7.24.1",
+    "@babel/types": "^7.24.0",
+    "tapable": "^2.2.1"
+  }
+}
