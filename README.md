@@ -1,6 +1,6 @@
 # Webpack clone
 
-this is a project that follow the instruction from [this article](https://juejin.cn/post/7031546400034947108#heading-16), which explains how webpack works.
+this is a project that follow the instruction from [this article](https://juejin.cn/post/7031546400034947108#heading-16), which explains how webpack works under the hood.
 even though it is a much simplified version, but the concept is there.
 
 Just run `npm install` to insall the required library.
